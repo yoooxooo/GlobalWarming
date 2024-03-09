@@ -1,0 +1,81 @@
+<h3>Target Location: London</h3>
+<table id="dataset_2" class="datatable">
+    <tr>
+        <td>Indicator</td>
+        <td>Total</td>
+        <td>Reliability</td>
+        <td>100%</td>
+        <td>100-95%</td>
+        <td>95-85%</td>
+        <td>85-75%</td>
+        <td>75-60%</td>
+        <td>60-0%</td>
+        <td>Volatility</td>
+        <td>Emissions Growth</td>
+    </tr>
+    <tr>
+        <td>Average precipitation, mm</td>
+        <td>1740</td>
+        <td>17</td>
+        <td>405</td>
+        <td>670</td>
+        <td>16</td>
+        <td>54</td>
+        <td>55</td>
+        <td>492</td>
+        <td>31</td>
+        <td>189.91</td>
+    </tr>
+    <tr>
+        <td>Average rainy days</td>
+        <td>1338</td>
+        <td>0</td>
+        <td>127</td>
+        <td>37</td>
+        <td>32</td>
+        <td>66</td>
+        <td>184</td>
+        <td>843</td>
+        <td>49</td>
+        <td>240.04</td>
+    </tr>
+    <tr>
+        <td>Average snowy days</td>
+        <td>2101</td>
+        <td>8</td>
+        <td>1917</td>
+        <td>72</td>
+        <td>19</td>
+        <td>9</td>
+        <td>44</td>
+        <td>22</td>
+        <td>10</td>
+        <td>123.37</td>
+    </tr>
+    <tr>
+        <td>Average relative humidity, %</td>
+        <td>2285</td>
+        <td>1</td>
+        <td>805</td>
+        <td>662</td>
+        <td>89</td>
+        <td>85</td>
+        <td>136</td>
+        <td>341</td>
+        <td>166</td>
+        <td>217.09</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>7464</td>
+        <td>26</td>
+        <td>3254</td>
+        <td>1441</td>
+        <td>156</td>
+        <td>214</td>
+        <td>419</td>
+        <td>1698</td>
+        <td>256</td>
+        <td>770.41</td>
+    </tr>
+</table>
